@@ -1,0 +1,5 @@
+array = [1, 3, 5, 9, 11, 2, 6, 8, 10]
+result = 0
+for element in array:
+    result += element
+print("Result: ", result)
